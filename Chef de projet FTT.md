@@ -1,13 +1,13 @@
-#Globalis 🐘
-##Chef de projet H/F
+# Globalis 🐘
+## Chef de projet H/F
 
-###Votre mission si vous le souhaitez 
+### Votre mission si vous le souhaitez 
 
-La [**FFT**] (https://www.fft.fr/), Fédération Française du Tennis et organisateur officiel des Championnats Internationaux de France de Tennis de Roland-Garros et du Rolex Paris Masters recherche son futur Chef de projet.
+La [**FFT**](https://www.fft.fr/), Fédération Française du Tennis et organisateur officiel des Championnats Internationaux de France de Tennis de Roland-Garros et du Rolex Paris Masters recherche son futur Chef de projet.
 
 Intégré(e) au sein de la Direction des Systèmes d’Information et dans le département Projets Métiers et Applications, vous serez en charge du pilotage de la Tierce Maintenance Applicative des applications «fédérales» de la Fédération Française de Tennis. 
 
-###Votre profil
+### Votre profil
 
 - Connaissance des processus et méthodes de gestion de projet (planning, budget, indicateurs, risques)
 - Savoir organiser une campagne de test
@@ -33,7 +33,7 @@ Formation et expérience :
 - 2 ans en developpement Java
 - Une première expérience en AMOA
 
-###Vos compétences techniques:
+### Vos compétences techniques:
  
 
 - Frameworks PHP tels que CodeIgniter, Symfony, Slim, Laravel, …
@@ -44,7 +44,7 @@ Formation et expérience :
 - Démarche qualité,
 - Test unitaires et fonctionnels: Codeception, Behat, …
 
-Pour accéder à l'offre cliquez: [**ICI**](https://www.globalis-ms.com/jobs/offres-emploi-stage-mission/chef-projet-technique-cdi-paris/ "C'est parti")  
+Accéder à l'[**offre**](https://www.globalis-ms.com/jobs/offres-emploi-stage-mission/chef-projet-technique-cdi-paris/ "C'est parti") en ligne.  
 
 Démarrage : ASAP
 
