@@ -1,14 +1,14 @@
-#Globalis 🐘
-##Développeur PHP confirmé
+# Globalis 🐘
+## Développeur PHP confirmé
 
-###Votre mission si vous le souhaitez 
+### Votre mission si vous le souhaitez 
 
-[**Globalis**] (https://www.globalis-ms.com/) est un atelier où des développeurs extraordinaires façonnent avec leurs clients des sites et des applications stratégiques.
+[**Globalis**](https://www.globalis-ms.com/) est un atelier où des développeurs extraordinaires façonnent avec leurs clients des sites et des applications stratégiques.
 
 Votre mission sera de participer aux projets dans nos bureaux et ainsi agrandir notre équipe interne ou alors apporter un appuie aux équipes directement chez nos clients sur leurs projets.
 
 
-###Votre profil
+### Votre profil
 
 - Titulaire d’un Bac+3 à Bac+5; 
 - Une expérience professionnelle d’au moins 3 ans où vous êtes idéalement intervenu sur des sites à fortes charges ou des applications métiers;
@@ -17,7 +17,7 @@ Votre mission sera de participer aux projets dans nos bureaux et ainsi agrandir 
 
 Votre atout : vous êtes curieux des nouvelles technologies avec une personnalité unique. Vous aimez le confort, les gâteaux et les friandises à volonté (à disposition dans une salle de repos) 🍭🧁🍩 
 
-###Vos compétences techniques:
+### Vos compétences techniques:
  
 
 - Langage: PHP biensur
@@ -29,7 +29,7 @@ Votre atout : vous êtes curieux des nouvelles technologies avec une personnalit
 - Démarche qualité,
 - Test unitaires et fonctionnels: Codeception, Behat, ...
 
-Pour accéder à l'offre cliquez: [**ICI**](https://www.globalis-ms.com/jobs/offres-emploi-stage-mission/cdi-developpeur-php-confirme/ "C'est parti")  
+Accéder à l'[**offre**](https://www.globalis-ms.com/jobs/offres-emploi-stage-mission/cdi-developpeur-php-confirme/ "C'est parti")  
 
 Vous pouvez aussi directement m'envoyer votre **CV** à l'adresse suivante: <johanna.rolfo@globalis-ms.com>
 
