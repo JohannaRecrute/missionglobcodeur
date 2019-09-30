@@ -31,7 +31,7 @@ Votre atout : vous êtes curieux des nouvelles technologies avec une volonté de
 - Démarche qualité,
 - Test unitaires et fonctionnels: Codeception, Behat, …
 
-Accéder à l'[**offre**](https://www.globalis-ms.com/jobs/offres-emploi-stage-mission/freelance-developpeur-symfony/ "C'est parti")  
+Accéder à l'[**offre**](https://www.globalis-ms.com/jobs/offres-emploi-stage-mission/freelance-developpeur-symfony/ "C'est parti") en ligne.
 
 Vous pouvez aussi directement m'envoyer votre **CV** à l'adresse suivante: <johanna.rolfo@globalis-ms.com>
 

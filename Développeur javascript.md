@@ -24,7 +24,7 @@ Votre mission sera de participer aux projets dans nos bureaux et ainsi agrandir 
 - Outils : Webpack, Grunt, NPM,
 - Versioning : Git.
 
-Accéder à l'[**offre**](https://www.globalis-ms.com/jobs/offres-emploi-stage-mission/cdi-developpeur-javascript/ "C'est parti")  
+Accéder à l'[**offre**](https://www.globalis-ms.com/jobs/offres-emploi-stage-mission/cdi-developpeur-javascript/ "C'est parti") en ligne.
 
 Vous pouvez aussi directement m'envoyer votre **CV** à l'adresse suivante: <johanna.rolfo@globalis-ms.com>
 

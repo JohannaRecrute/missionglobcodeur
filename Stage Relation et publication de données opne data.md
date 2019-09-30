@@ -37,7 +37,7 @@ Git.
 - Méthodes agiles,
 - Démarche qualité.
 
-Accéder à l'[**offre**](https://www.globalis-ms.com/jobs/offres-emploi-stage-mission/stage-paris-opendata-developpement-web/ "C'est parti")  
+Accéder à l'[**offre**](https://www.globalis-ms.com/jobs/offres-emploi-stage-mission/stage-paris-opendata-developpement-web/ "C'est parti") en ligne.
 
 Vous pouvez aussi directement m'envoyer votre **CV** à l'adresse suivante: <johanna.rolfo@globalis-ms.com>
 

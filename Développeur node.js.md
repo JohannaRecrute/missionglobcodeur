@@ -24,7 +24,7 @@ Votre atout : vous avez de l'expérience dans la mise en place de CMS dans le se
 - Les plus : méthode de développement (TDD), GraphQL, 
 - Versioning : Git.
 
-Accéder à l'[**offre**](https://www.globalis-ms.com/jobs/offres-emploi-stage-mission/developpeur-nodejs/ "C'est parti")  
+Accéder à l'[**offre**](https://www.globalis-ms.com/jobs/offres-emploi-stage-mission/developpeur-nodejs/ "C'est parti") en ligne.
 
 Vous pouvez aussi directement m'envoyer votre **CV** à l'adresse suivante: <johanna.rolfo@globalis-ms.com>
 

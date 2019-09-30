@@ -32,7 +32,7 @@ Associé à l’équipe de gestion de projet (3 chefs de projets fonctionnels et
 - Démarche qualité,
 - Test unitaires et fonctionnels: Codeception, Behat, …
 
-Accéder à l'[**offre**](https://www.globalis-ms.com/jobs/offres-emploi-stage-mission/alternance-chef-projet-paris/ "C'est parti")  
+Accéder à l'[**offre**](https://www.globalis-ms.com/jobs/offres-emploi-stage-mission/alternance-chef-projet-paris/ "C'est parti") en ligne. 
 
 Démarrage : Novembre
 
