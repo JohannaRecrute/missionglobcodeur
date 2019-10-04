@@ -26,10 +26,10 @@ Votre atout : vous êtes curieux des nouvelles technologies avec une personnalit
 - Outillage moderne: Robo, Composer, NPM, Gulp, Bower, grunt, Phing, …
 - Méthodes agiles,
 - Démarche qualité,
-- Tests unitaires et fonctionnels: Codeception, Behat, …
+- Tests unitaires et fonctionnels : Codeception, Behat, …
 
 Accéder à l'[**offre**](https://www.globalis-ms.com/jobs/offres-emploi-stage-mission/developpeur-nodejs/ "C'est parti") en ligne. 
 
-Vous pouvez aussi directement m'envoyer votre **CV** à l'adresse suivante: <johanna.rolfo@globalis-ms.com>
+Vous pouvez aussi directement m'envoyer votre **CV** à l'adresse suivante : <johanna.rolfo@globalis-ms.com>
 
 À très vite pour une nouvelle publication 😉
