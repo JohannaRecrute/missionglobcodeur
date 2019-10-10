@@ -9,30 +9,30 @@ Nous recherchons des développeurs fullstack qui auront pour mission d'apporter 
 
 Quelques exemples de missions :
 
-- Startup en monétique : développement de nouvelles fonctionnalités sur les applications
+- Startup en monétique : développement de nouvelles fonctionnalités sur les applications.
 - France Télévisions : intégration dans une des équipes dans le cadre du développement d’applications grands publics.
 - Médias : renforcement de l’un des pôles majeurs sur des applications spécifiques.
 
 ### Votre profil
 
-- Titulaire d’un Bac+3 à Bac+5; 
-- Une expérience professionnelle d’au moins 3 ans en développement web;
+- Titulaire d’un Bac+3 à Bac+5. 
+- Une expérience professionnelle d’au moins 3 ans en développement web.
 
 
 Votre atout : vous êtes curieux des nouvelles technologies avec une volonté de continuer à apprendre et d'évoluer. 
 
-### Vos compétences techniques:
+### Vos compétences techniques
  
-- Framework PHP tel que Symfony,
+- Framework PHP tel que Symfony.
 - Frameworks Front tel que ReactJS, AngularJS, VueJS, …
-- Utilisation de CMS comme WordPress et Drupal,
-- Outillage moderne: Robo, Composer, NPM, Gulp, Bower, grunt, Phing, …
-- Méthodes agiles,
-- Démarche qualité,
+- Utilisation de CMS comme WordPress et Drupal.
+- Outillage moderne : Robo, Composer, NPM, Gulp, Bower, grunt, Phing, …
+- Méthodes agiles.
+- Démarche qualité.
 - Test unitaires et fonctionnels: Codeception, Behat, …
 
 Accéder à l'[**offre**](https://www.globalis-ms.com/jobs/offres-emploi-stage-mission/freelance-developpeur-symfony/ "C'est parti") en ligne.
 
-Vous pouvez aussi directement m'envoyer votre **CV** à l'adresse suivante: <johanna.rolfo@globalis-ms.com>
+Vous pouvez aussi directement m'envoyer votre **CV** à l'adresse suivante : <johanna.rolfo@globalis-ms.com>
 
 À très vite pour une nouvelle publication 😉

@@ -17,26 +17,26 @@ Associé à l’équipe de gestion de projet (3 chefs de projets fonctionnels et
 
 ### Votre profil
 
-- Alternance Bac+4 ou Bac+5
-- Bonne connaissance du Web: sites et applicatifs métier.
+- Alternance Bac+4 ou Bac+5.
+- Bonne connaissance du Web : sites et applicatifs métier.
 - Un vernis technique et PHP serait un plus.
 - Connaissances (même théorique) des méthodes agiles, idéalement Scrum.
 
-### Vos compétences techniques:
+### Vos compétences techniques
 
 - Frameworks PHP tels que CodeIgniter, Symfony, Slim, Laravel, …
 - Frameworks Front tel que ReactJS, AngularJS, VueJS, …
-- Utilisation de CMS comme WordPress et Drupal,
+- Utilisation de CMS comme WordPress et Drupal.
 - Outillage moderne : Robo, Composer, NPM, Gulp, Bower, grunt, Phing, …
-- Méthodes agiles,
-- Démarche qualité,
+- Méthodes agiles.
+- Démarche qualité.
 - Test unitaires et fonctionnels: Codeception, Behat, …
 
 Accéder à l'[**offre**](https://www.globalis-ms.com/jobs/offres-emploi-stage-mission/alternance-chef-projet-paris/ "C'est parti") en ligne. 
 
 Démarrage : Novembre
 
-Vous pouvez aussi directement m'envoyer votre **CV** à l'adresse suivante: <johanna.rolfo@globalis-ms.com>
+Vous pouvez aussi directement m'envoyer votre **CV** à l'adresse suivante : <johanna.rolfo@globalis-ms.com>
 
 À très vite pour une nouvelle publication 🙂
 

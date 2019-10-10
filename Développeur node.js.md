@@ -7,26 +7,26 @@
 
 ### Votre profil 
 
-- un profil junior ou confirmé
-- une bonne connaissance de la méthode agile
-- un bon niveau d'anglais
-- vous avez une bonne expérience en développement dans l'ingienierie, l'indutrie ou la banque et vous voulez
+- Un profil junior ou confirmé.
+- Une bonne connaissance de la méthode agile.
+- Un bon niveau d'anglais.
+- Vous avez une bonne expérience en développement dans l'ingienierie, l'indutrie ou la banque et vous voulez.
 
 Votre atout : vous avez de l'expérience dans la mise en place de CMS dans le secteur de la presse ou les médias et **vous aimez le sport** ⚽️⚽️
 
-### Vos compétences techniques:
+### Vos compétences techniques
  
 
-- Framework back-end : Node.js,
-- HTML5,CSS3,
-- Javascript : sémantique, jQuery, ReactJS, BackboneJS,
-- Connaissance de la méthodologie Agile,
-- Les plus : méthode de développement (TDD), GraphQL, 
+- Framework back-end : Node.js.
+- HTML5,CSS3.
+- Javascript : sémantique, jQuery, ReactJS, BackboneJS.
+- Connaissance de la méthodologie Agile.
+- Les plus : méthode de développement (TDD), GraphQL.
 - Versioning : Git.
 
 Accéder à l'[**offre**](https://www.globalis-ms.com/jobs/offres-emploi-stage-mission/developpeur-nodejs/ "C'est parti") en ligne.
 
-Vous pouvez aussi directement m'envoyer votre **CV** à l'adresse suivante: <johanna.rolfo@globalis-ms.com>
+Vous pouvez aussi directement m'envoyer votre **CV** à l'adresse suivante : <johanna.rolfo@globalis-ms.com>
 
 À très vite pour une nouvelle publication 🙂
 

@@ -10,22 +10,22 @@ Votre mission sera de participer aux projets dans nos bureaux et ainsi agrandir 
 
 ### Votre profil
 
-- Titulaire d’un Bac+3 à Bac+5; 
-- Une expérience professionnelle d’au moins 6 mois en développement web;
+- Titulaire d’un Bac+3 à Bac+5.
+- Une expérience professionnelle d’au moins 6 mois en développement web.
 - vous avez une passion pour le code.
 
 Votre atout : vous êtes curieux des nouvelles technologies avec une personnalité unique. Vous aimez le confort, les gâteaux et les friandises à volonté (à disposition dans une salle de repos) 🍭🧁🍩 
 
-### Vos compétences techniques:
+### Vos compétences techniques 
  
 
-- Langage: PHP biensur
+- Langage : PHP biensur.
 - Frameworks PHP tels que CodeIgniter, Symfony, Slim, Laravel, …
 - Frameworks Front tel que ReactJS, AngularJS, VueJS, …
-- Utilisation de CMS comme WordPress et Drupal,
-- Outillage moderne: Robo, Composer, NPM, Gulp, Bower, grunt, Phing, …
-- Méthodes agiles,
-- Démarche qualité,
+- Utilisation de CMS comme WordPress et Drupal.
+- Outillage moderne : Robo, Composer, NPM, Gulp, Bower, grunt, Phing, …
+- Méthodes agiles.
+- Démarche qualité.
 - Tests unitaires et fonctionnels : Codeception, Behat, …
 
 Accéder à l'[**offre**](https://www.globalis-ms.com/jobs/offres-emploi-stage-mission/developpeur-nodejs/ "C'est parti") en ligne. 

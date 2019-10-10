@@ -9,24 +9,24 @@ Votre mission sera de participer aux projets dans nos bureaux et ainsi agrandir 
 
 ### Votre profil
 
-- Au moins deux années d’expérience en développement Front
-- Maîtrise des langages Front: HTML, CSS, Javascript
-- Maîtrise de Javascript natif (VanillaJS), jQuery /
-- AngularJS, ReactJS, BackboneJS… sont de gros plus
+- Au moins deux années d’expérience en développement Front.
+- Maîtrise des langages Front: HTML, CSS, Javascript.
+- Maîtrise de Javascript natif (VanillaJS), jQuery.
+- AngularJS, ReactJS, BackboneJS… sont de gros plus.
 - Maîtrise d’un outil de versionning: Git, SVN…
 - Connaissance d’un outil de workflow: Webpack, Bower, Yeoman…
 
-### Vos compétences techniques:
+### Vos compétences techniques
  
-- HTML5, CSS3,
-- JavaScript : sémantique, ReactJS, RiotJS, Angular, BackboneJS,
-- Pré-processeur CSS : SaaS, LeSS,
-- Outils : Webpack, Grunt, NPM,
+- HTML5, CSS3.
+- JavaScript : sémantique, ReactJS, RiotJS, Angular, BackboneJS.
+- Pré-processeur CSS : SaaS, LeSS.
+- Outils : Webpack, Grunt, NPM.
 - Versioning : Git.
 
 Accéder à l'[**offre**](https://www.globalis-ms.com/jobs/offres-emploi-stage-mission/cdi-developpeur-javascript/ "C'est parti") en ligne.
 
-Vous pouvez aussi directement m'envoyer votre **CV** à l'adresse suivante: <johanna.rolfo@globalis-ms.com>
+Vous pouvez aussi directement m'envoyer votre **CV** à l'adresse suivante : <johanna.rolfo@globalis-ms.com>
 
 À très vite pour une nouvelle publication 🙂
 
